@@ -8,6 +8,8 @@ for marital status, region, age group, and education level
 allowing filtering across all visuals to explore how 
 different customer profiles influence bike purchase decisions.
 
+[Download Excel Dashboard](bike_sales_dashboard.xlsx)
+
 ## Dashboard Preview
 <img src="screenshots/dashboard_overview.png" width="600">
 
